@@ -1,1 +1,1 @@
-Hello Git! I'm Khang. I've finished ex2!
+Hello Git! I'm Khang. I've finished both ex1 and ex2!
